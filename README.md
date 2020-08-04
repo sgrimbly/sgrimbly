@@ -21,6 +21,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Mathematics of Predictive Processing](https://www.youtube.com/watch?v=Uqgw2xWMzYE)
 <!-- YOUTUBE:END -->
 
 ---
