@@ -27,6 +27,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uncertainty in Model Based RL](https://stjohngrimbly.com/uncertainty-in-MBRL/)
+- [Exploration vs Exploitation](https://stjohngrimbly.com/exploration-vs-exploitation/)
+- [Free Energy of Expected Future](https://stjohngrimbly.com/free-energy-of-expected-future/)
+- [Introduction to Reinforcement Learning](https://stjohngrimbly.com/intro-to-RL/)
+- [Learning with a model](https://stjohngrimbly.com/model-based-RL/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
