@@ -1,6 +1,6 @@
 ### Hi there, I'm St John 🙋🏼‍♂.
 
-## I'm a current student. Check out my [blog][website] 🤖
+## I'm a current student. Check out my [blog][website] 🤖.
 - 🌱 I’m currently studying mathematical biology and simulating using Julia.
 - 📚 I’m currently learning everything - well...trying 🤣.
 - 🥅 2020 Goals: Read more and do more fun projects.
