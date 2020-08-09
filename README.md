@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Causal Models](https://stjohngrimbly.com/learning-causal-models/)
 - [Causal Models](https://stjohngrimbly.com/Causal-Models/)
 - [A Causal Perspective](https://stjohngrimbly.com/a-causal-perspective/)
 - [Uncertainty in Model Based RL](https://stjohngrimbly.com/uncertainty-in-MBRL/)
 - [Exploration vs Exploitation](https://stjohngrimbly.com/exploration-vs-exploitation/)
-- [Free Energy of Expected Future](https://stjohngrimbly.com/free-energy-of-expected-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
