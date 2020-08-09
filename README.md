@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Causal Models](https://stjohngrimbly.com/learning-causal-models/)
+- [Learning Causal Models](https://stjohngrimbly.com/learning-causal-models/)
 - [Causal Models](https://stjohngrimbly.com/Causal-Models/)
 - [A Causal Perspective](https://stjohngrimbly.com/a-causal-perspective/)
 - [Uncertainty in Model Based RL](https://stjohngrimbly.com/uncertainty-in-MBRL/)
