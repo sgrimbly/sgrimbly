@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Causality and Machine Learning](https://stjohngrimbly.com/causality-and-machine-learning/)
 - [Learning Causal Models](https://stjohngrimbly.com/learning-causal-models/)
 - [Causal Models](https://stjohngrimbly.com/Causal-Models/)
 - [A Causal Perspective](https://stjohngrimbly.com/a-causal-perspective/)
 - [Uncertainty in Model Based RL](https://stjohngrimbly.com/uncertainty-in-MBRL/)
-- [Exploration vs Exploitation](https://stjohngrimbly.com/exploration-vs-exploitation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
