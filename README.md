@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Multivariate Causal Models](https://stjohngrimbly.com/multivariate-causal-models/)
+- [The Do-Calculus](https://stjohngrimbly.com/the-do-calculus/)
+- [Reaching Rung 3: Interventions and Counterfactuals](https://stjohngrimbly.com/reaching-rung-3/)
+- [Multivariate SCMs](https://stjohngrimbly.com/multivariate-SCMs/)
 - [Causality and Machine Learning](https://stjohngrimbly.com/causality-and-machine-learning/)
 - [Learning Causal Models](https://stjohngrimbly.com/learning-causal-models/)
-- [Causal Models](https://stjohngrimbly.com/Causal-Models/)
-- [A Causal Perspective](https://stjohngrimbly.com/a-causal-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
