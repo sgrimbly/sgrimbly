@@ -29,10 +29,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Do-Calculus](https://stjohngrimbly.com/the-do-calculus/)
+- [Interventions and Multivariate SCMs](https://stjohngrimbly.com/faithfulness/)
 - [Reaching Rung 3: Counterfactual Reasoning](https://stjohngrimbly.com/reaching-rung-3/)
 - [Interventions and Multivariate SCMs](https://stjohngrimbly.com/multivariate-SCMs/)
 - [Causality and Machine Learning](https://stjohngrimbly.com/causality-and-machine-learning/)
-- [Learning Causal Models](https://stjohngrimbly.com/learning-causal-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
