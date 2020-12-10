@@ -13,4 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "stjohngrimbly.com"
+          commit_message: "Updated readme with the latest blog posts"
           feed_list: "https://stjohngrimbly.com/feed.xml"
