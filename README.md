@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preliminaries for CRL](https://stjohngrimbly.com/CRL-preliminaries/)
+- [Causal Reinforcement Learning: A Primer](https://stjohngrimbly.com/causal-reinforcement-learning/)
 - [The Do-Calculus](https://stjohngrimbly.com/the-do-calculus/)
 - [Faithfulness](https://stjohngrimbly.com/faithfulness/)
 - [Reaching Rung 3: Counterfactual Reasoning](https://stjohngrimbly.com/reaching-rung-3/)
-- [Interventions and Multivariate SCMs](https://stjohngrimbly.com/multivariate-SCMs/)
-- [Causality and Machine Learning](https://stjohngrimbly.com/causality-and-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
