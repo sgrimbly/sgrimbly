@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CRL Task 1: Generalised Policy Learning](https://stjohngrimbly.com/generalised-PL/)
 - [Preliminaries for CRL](https://stjohngrimbly.com/CRL-preliminaries/)
 - [Causal Reinforcement Learning: A Primer](https://stjohngrimbly.com/causal-reinforcement-learning/)
 - [The Do-Calculus](https://stjohngrimbly.com/the-do-calculus/)
 - [Faithfulness](https://stjohngrimbly.com/faithfulness/)
-- [Reaching Rung 3: Counterfactual Reasoning](https://stjohngrimbly.com/reaching-rung-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
