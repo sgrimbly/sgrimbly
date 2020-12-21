@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [CRL Task 2: Interventions - When and where?](https://stjohngrimbly.com/counterfactual/)
+- [CRL Task 3: Counterfactual Decision Making](https://stjohngrimbly.com/counterfactual/)
 - [CRL Task 2: Interventions - When and where?](https://stjohngrimbly.com/interventions/)
 - [CRL Task 1: Generalised Policy Learning](https://stjohngrimbly.com/generalised-PL/)
 - [Preliminaries for CRL](https://stjohngrimbly.com/CRL-preliminaries/)
