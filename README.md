@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CRL Task 6: Causal Imitation Learning](https://stjohngrimbly.com/causal-imitation/)
+- [CRL Task 5: Learning Causal Models](https://stjohngrimbly.com/learning-models/)
+- [CRL Task 4: Generalisability and Robustness](https://stjohngrimbly.com/generalise/)
 - [CRL Task 3: Counterfactual Decision Making](https://stjohngrimbly.com/counterfactual/)
 - [CRL Task 2: Interventions - When and where?](https://stjohngrimbly.com/interventions/)
-- [CRL Task 1: Generalised Policy Learning](https://stjohngrimbly.com/generalised-PL/)
-- [Preliminaries for CRL](https://stjohngrimbly.com/CRL-preliminaries/)
-- [Causal Reinforcement Learning: A Primer](https://stjohngrimbly.com/causal-reinforcement-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
