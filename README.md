@@ -28,11 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Causal RL Wrapping Up: Where to?](https://stjohngrimbly.com/wrapping-up/)
-- [CRL Task 6: Causal Imitation Learning](https://stjohngrimbly.com/causal-imitation/)
-- [CRL Task 5: Learning Causal Models](https://stjohngrimbly.com/learning-models/)
-- [CRL Task 4: Generalisability and Robustness](https://stjohngrimbly.com/generalise/)
-- [CRL Task 3: Counterfactual Decision Making](https://stjohngrimbly.com/counterfactual/)
+- [Causal RL Wrapping Up: Where to?](http://stjohngrimbly.com/wrapping-up/)
+- [CRL Task 6: Causal Imitation Learning](http://stjohngrimbly.com/causal-imitation/)
+- [CRL Task 5: Learning Causal Models](http://stjohngrimbly.com/learning-models/)
+- [CRL Task 4: Generalisability and Robustness](http://stjohngrimbly.com/generalise/)
+- [CRL Task 3: Counterfactual Decision Making](http://stjohngrimbly.com/counterfactual/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
