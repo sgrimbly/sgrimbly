@@ -1,10 +1,10 @@
 ### Hi there, I'm St John 🙋🏼‍♂.
 
 ## I'm a current student. Check out my [blog][website] 🤖.
-- 🌱 I’m currently studying mathematical biology and simulating using Julia.
-- 📚 I’m currently learning everything - well...trying 🤣.
-- 🥅 2020 Goals: Read more and do more fun projects.
-- ⚡ Fun fact: I play piano and am a cyclist.
+- 🌱 I’m currently working on causality and multi-agent reinforcement learning.
+- 📚 Trying to learn everything...little bit at a time.
+- 🥅 2021 Goals: Read at least 52 books and code some fun projects.
+- ⚡ I play piano and enjoy triathlon.
 
 ### Connect with me:
 
@@ -19,13 +19,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [The Mathematics of Predictive Processing](https://www.youtube.com/watch?v=Uqgw2xWMzYE)
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Productive Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
@@ -34,6 +27,13 @@
 - [CRL Task 6: Causal Imitation Learning](http://stjohngrimbly.com/causal-imitation/)
 - [CRL Task 5: Learning Causal Models](http://stjohngrimbly.com/learning-models/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [The Mathematics of Predictive Processing](https://www.youtube.com/watch?v=Uqgw2xWMzYE)
+<!-- YOUTUBE:END -->
 
 ---
 
