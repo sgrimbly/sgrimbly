@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
+- [A Productive Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
 - [So Many Options!](http://stjohngrimbly.com/so-many-option/)
 - [Causal RL Wrapping Up: Where to?](http://stjohngrimbly.com/wrapping-up/)
 - [CRL Task 6: Causal Imitation Learning](http://stjohngrimbly.com/causal-imitation/)
