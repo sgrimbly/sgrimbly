@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Predicting Protein Function with DeepChain](http://stjohngrimbly.com/protein-function/)
 - [A Productive Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
 - [So Many Options!](http://stjohngrimbly.com/so-many-option/)
 - [Causal RL Wrapping Up: Where to?](http://stjohngrimbly.com/wrapping-up/)
 - [CRL Task 6: Causal Imitation Learning](http://stjohngrimbly.com/causal-imitation/)
-- [CRL Task 5: Learning Causal Models](http://stjohngrimbly.com/learning-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
