@@ -3,8 +3,7 @@
 ## I'm a current student. Check out my [blog][website] 🤖.
 - 🌱 I’m currently working on causality and multi-agent reinforcement learning.
 - 📚 Trying to learn everything...little bit at a time.
-- 🥅 2021 Goals: Read at least 52 books and code some fun projects.
-- ⚡ I play piano and enjoy triathlon.
+- 🥅 2022 Goals: Read at least 52 books and code some fun projects.
 
 ### Connect with me:
 
