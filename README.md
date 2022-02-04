@@ -20,7 +20,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [On Points and Rewards](http://stjohngrimbly.com/credit-cards/)
+- [On Banking, Points &amp; Rewards](http://stjohngrimbly.com/credit-cards/)
 - [Predicting Protein Function with DeepChain](http://stjohngrimbly.com/protein-function/)
 - [A Productive Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
 - [So Many Options!](http://stjohngrimbly.com/so-many-option/)
