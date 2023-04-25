@@ -12,6 +12,8 @@
 [<img align="left" alt="St John | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="St John | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br>
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [On Banking, Points &amp; Rewards](http://stjohngrimbly.com/credit-cards/)
