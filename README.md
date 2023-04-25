@@ -12,11 +12,6 @@
 [<img align="left" alt="St John | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="St John | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
-
-<br />
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
