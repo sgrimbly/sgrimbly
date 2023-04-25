@@ -3,7 +3,7 @@
 ## I'm a current student. Check out my [blog][website] 🤖.
 - 🌱 I’m currently working on causality, reinforcement learning, and active inference.
 - 📚 Trying to learn everything...a little bit at a time.
-- 🥅 2023 Goals: Read at least 52 books.
+- 🥅 2023 Goals: Read 52 books.
 
 ### Connect with me:
 
@@ -28,14 +28,11 @@
 - [Causal RL Wrapping Up: Where to?](http://stjohngrimbly.com/wrapping-up/)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [The Mathematics of Predictive Processing](https://www.youtube.com/watch?v=Uqgw2xWMzYE)
 <!-- YOUTUBE:END -->
-
---- -->
 
 <img align="left" alt="St John's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sgrimbly&show_icons=true&hide_border=true&count_private=true" />
 
