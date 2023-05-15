@@ -1,6 +1,6 @@
 ### Hi there, I'm St John 🙋🏼‍♂.
 
-## I'm a current student. Check out my [blog][website] 🤖.
+## Incoming PhD student. Some public work is on my [blog][website] 🤖.
 - 🌱 I’m currently working on causality, reinforcement learning, and active inference.
 - 📚 Trying to learn everything...a little bit at a time.
 - 🥅 2023 Goals: Read 52 books.
