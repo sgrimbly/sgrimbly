@@ -1,8 +1,11 @@
 ### Hi there, I'm St John 🙋🏼‍♂.
 
-## PhD student @ University of Cape Town. Some public work is on my [blog][website] 🤖.
-- 🌱 I’m currently working on discrete active inference and planning.
-- 📚 Trying to learn a little bit at a time.
+## PhD Candidate in Applied Mathematics @ University of Cape Town  
+Some (older) public work is on my [blog][website] 🤖.
+
+- 🌱 Currently researching affective consciousness and active inference (with a focus on discrete models and planning).  
+- 📚 Learning, writing, and building a little at a time.  
+- 🤝 Open to collaboration and discussion on topics around general intelligence and computational modelling.  
 
 ### Connect with me:
 
@@ -15,7 +18,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [On Banking, Points &amp; Rewards](http://stjohngrimbly.com/credit-cards/)
 - [Predicting Protein Function with DeepChain](http://stjohngrimbly.com/protein-function/)
 - [A Productive Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
 - [So Many Options!](http://stjohngrimbly.com/so-many-option/)
@@ -26,4 +28,4 @@
 
 [website]: https://stjohngrimbly.com/
 [linkedin]: https://www.linkedin.com/in/stjohngrimbly/
-[twitter]: https://twitter.com/stjohngrimbly
+[twitter/X]: https://twitter.com/stjohngrimbly
