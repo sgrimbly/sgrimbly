@@ -6,7 +6,7 @@ Researching how affective states shape planning and decision-making through the 
 
 - 🧠 Currently: Affective Active Inference
 - 📄 Active research: Papers in submission across active inference and decision-making
-- 🔬 Active code: [AttentionAgent](https://github.com/sgrimbly) — hierarchical agent framework
+- 🔬 Active code: [Sophisticated Learning](https://github.com/sgrimbly/sophisticated-learning) — agent architectures & planning
 - 📚 Writing & notes: [stjohngrimbly.com](https://stjohngrimbly.com)
 - 🤝 Open to: collaboration on active inference, discrete planning, or anything at the intersection of causality and consciousness
 
