@@ -1,31 +1,22 @@
-### Hi there, I'm St John 🙋🏼‍♂.
+### Hi there, I'm St John 🙋🏼‍♂️
 
-## PhD Candidate in Applied Mathematics @ University of Cape Town  
-Some (older) public work is on my [blog][website] 🤖.
+**PhD Candidate in Applied Mathematics @ University of Cape Town**
 
-- 🌱 Currently researching affective consciousness and active inference (with a focus on discrete models and planning).  
-- 📚 Learning, writing, and building a little at a time.  
-- 🤝 Open to collaboration and discussion on topics around general intelligence and computational modelling.  
+Researching how affective states shape planning and decision-making through the lens of active inference. Interested in discrete models, hierarchical agency, and why agents need to care.
 
-### Connect with me:
+- 🧠 Currently: Affective Active Inference
+- 📄 Active research: Papers in submission across active inference and decision-making
+- 🔬 Active code: [AttentionAgent](https://github.com/sgrimbly) — hierarchical agent framework
+- 📚 Writing & notes: [stjohngrimbly.com](https://stjohngrimbly.com)
+- 🤝 Open to: collaboration on active inference, discrete planning, or anything at the intersection of causality and consciousness
 
-[<img align="left" alt="stjohngrimbly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="St John | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="St John | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### Connect
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br>
-<br>
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Predicting Protein Function with DeepChain](http://stjohngrimbly.com/protein-function/)
-- [A Productive Study and Research Workflow with Notion](http://stjohngrimbly.com/notion-setup/)
-- [So Many Options!](http://stjohngrimbly.com/so-many-option/)
-- [Causal RL Wrapping Up: Where to?](http://stjohngrimbly.com/wrapping-up/)
-<!-- BLOG-POST-LIST:END -->
-
-<img align="left" alt="St John's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sgrimbly&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://stjohngrimbly.com/
 [linkedin]: https://www.linkedin.com/in/stjohngrimbly/
-[twitter/X]: https://twitter.com/stjohngrimbly
+[twitter]: https://twitter.com/stjohngrimbly
